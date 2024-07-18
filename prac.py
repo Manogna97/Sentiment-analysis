@@ -8,7 +8,7 @@ st.set_page_config(layout="wide")
 
 
 st.title("🎧 Audio Analysis 📝")
-st.write("[Joas](https://huggingface.co/Pontonkid)")
+
 
 
 st.sidebar.title("Audio Analysis")
